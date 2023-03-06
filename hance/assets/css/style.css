@@ -1,0 +1,32 @@
+body *{
+    color: #607fa7;
+    
+}
+.bg{
+    background-color: #011936;
+}
+.nav-main {
+    background-color: #072a55;
+}
+.text-in{
+    color: #607fa7;
+    
+}
+.main-up{
+margin-top: 25vh;
+margin-left: 20vh;
+}
+.learn-more{
+    background-color: #0EC9AC;
+
+}
+.box-pop *{
+    background-color: #072a55;
+    color: #4470aa;
+
+   
+}
+.container .card{
+    background-color: #072a55;
+    margin-top: 50px;
+}
